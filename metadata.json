@@ -1,0 +1,7 @@
+{
+  "name": "PropertyScout AI Template",
+  "description": "AI-powered lead capture and property analysis for home service professionals. ",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
